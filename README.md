@@ -100,4 +100,4 @@ To get a customized version for your business, contact us directly via WhatsApp:
 
 ---
 
-### 👨‍💻 Developed with ❤️ using Python (for backend logic) & C# Windows Forms (UI)
+### 👨‍💻 Developed with ❤️ ali eid 
